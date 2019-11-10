@@ -164,7 +164,6 @@ public class GameApp extends JPanel implements Runnable, KeyListener {
 
     }
 
-    //@Override
     public void keyPressed(KeyEvent e) {
         String key = Character.toString(e.getKeyChar());
 
@@ -185,7 +184,6 @@ public class GameApp extends JPanel implements Runnable, KeyListener {
     }
 
     public void removeObject(GameObject object){
-        //gameObjects.remove(object);
         gameObjectsToRemove.add(object);
     }
 
