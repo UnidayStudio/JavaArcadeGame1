@@ -1,7 +1,7 @@
 # Java Arcade Game 01
 Simple 2D arcade Game made using Java.
  
-![](https://youtu.be/yhut3Z9Qxkk)
+[![Gameplay](http://img.youtube.com/vi/yhut3Z9Qxkk/0.jpg)](https://www.youtube.com/watch?v=yhut3Z9Qxkk "Gameplay")
 
 Esse trabalho foi desenvolvido por Guilherme Teres Nunes e é referente ao projeto prático da disciplina de Engenharia de Software ministrada pelo professor Eduardo Figueiredo na Universidade Federal de Minas Gerais – UFMG. O projeto foi desenvolvido com o intuito de criar e passar por toda a estrutura, engenharia e projeto de software necessário para desenvolver e escalar um jogo digital a partir do zero.
 
